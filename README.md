@@ -1,4 +1,8 @@
-# notion-charts
+# First Dashboard with Notion
+
+Check the result here : https://www.notion.so/OS-e58a4dfdd89d46f48426e4c05265f45d
+
+## Charts Example
 
 ![image](docs/example.png)
 

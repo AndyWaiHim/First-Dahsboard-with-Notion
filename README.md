@@ -1,6 +1,8 @@
 # First Dashboard with Notion
 
-Check the result here : https://www.notion.so/OS-e58a4dfdd89d46f48426e4c05265f45d
+The Start-up Acasi contacted me for a job interview. They asked me to build a dashboard using a new tool to check my learning skills.
+
+Here the result : https://www.notion.so/OS-e58a4dfdd89d46f48426e4c05265f45d
 
 ## Charts Example
 
